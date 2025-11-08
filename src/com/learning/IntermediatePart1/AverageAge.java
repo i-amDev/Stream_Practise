@@ -9,11 +9,11 @@ public class AverageAge {
     public static void main(String[] args) {
 
         List<Employee> employees = Arrays.asList(
-                new Employee(101, "Tony", 50000, 60),
-                new Employee(102, "Steve", 35000, 80),
-                new Employee(103, "Bruce", 80400, 55),
-                new Employee(104, "Peter", 125000, 25),
-                new Employee(105, "Thor", 23000, 235)
+                new Employee(101, "Tony", 50000, 60, "HR"),
+                new Employee(102, "Steve", 35000, 80, "IT"),
+                new Employee(103, "Bruce", 80400, 55, "Finance"),
+                new Employee(104, "Peter", 125000, 25, "HR"),
+                new Employee(105, "Thor", 23000, 235, "Finance")
         );
 
         OptionalDouble result = employees
