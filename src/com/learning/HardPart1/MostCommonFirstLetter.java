@@ -1,4 +1,4 @@
-package com.learning.Hard;
+package com.learning.HardPart1;
 
 import com.learning.IntermediatePart1.Employee;
 
