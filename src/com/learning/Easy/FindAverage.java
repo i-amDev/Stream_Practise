@@ -24,5 +24,4 @@ public class FindAverage {
         System.out.println("Average of all numbers is : " + average.getAsDouble());
         System.out.println("Average of all numbers is : " + result);
     }
-
 }
