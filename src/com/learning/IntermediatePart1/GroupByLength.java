@@ -17,5 +17,4 @@ public class GroupByLength {
 
         System.out.println(output);
     }
-
 }
