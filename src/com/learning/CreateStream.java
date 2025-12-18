@@ -21,7 +21,5 @@ public class CreateStream {
 
         // Using Stream generate
         Stream<String> limit = Stream.generate(() -> "Hello").limit(5);
-
-
     }
 }
