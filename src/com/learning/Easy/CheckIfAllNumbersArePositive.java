@@ -15,4 +15,5 @@ public class CheckIfAllNumbersArePositive {
 
         System.out.println("Does it contain all positive numbers : " + result);
     }
+
 }
