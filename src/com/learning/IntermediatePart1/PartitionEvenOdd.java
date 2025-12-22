@@ -17,5 +17,6 @@ public class PartitionEvenOdd {
 
         System.out.println("Even numbers : " + output.get(true));
         System.out.println("Odd numbers : " + output.get(false));
+
     }
 }
