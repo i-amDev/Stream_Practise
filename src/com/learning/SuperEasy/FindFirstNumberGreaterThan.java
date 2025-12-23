@@ -17,5 +17,6 @@ public class FindFirstNumberGreaterThan {
                 .findFirst();// Terminal Operation
 
         System.out.println("First number greater than 10 is : " + result.get());
+
     }
 }
