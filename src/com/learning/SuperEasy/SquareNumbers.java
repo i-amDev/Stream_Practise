@@ -16,5 +16,6 @@ public class SquareNumbers {
                 .collect(Collectors.toList()); // Terminal Operation.
 
         System.out.println("Squares of each numbers are : " + result);
+
     }
 }
