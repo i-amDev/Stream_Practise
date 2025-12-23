@@ -25,5 +25,6 @@ public class MaximumNumber {
         System.out.println("Maximum element is : " + result);
         System.out.println("Maximum element is : " + ans);
         System.out.println("Maximum element is : " + max.get());
+
     }
 }
