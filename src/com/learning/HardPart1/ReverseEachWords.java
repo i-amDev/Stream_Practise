@@ -21,6 +21,5 @@ public class ReverseEachWords {
                 .collect(Collectors.joining(" "));
 
         System.out.println(ans);
-
     }
 }
