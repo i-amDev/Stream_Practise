@@ -16,6 +16,5 @@ public class FilterEvenNumbers {
                 .collect(Collectors.toList()); // Terminal Operation.
 
         System.out.println("Even numbers are : " + result);
-
     }
 }
