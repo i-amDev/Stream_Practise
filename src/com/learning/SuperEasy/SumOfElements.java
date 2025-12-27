@@ -19,6 +19,5 @@ public class SumOfElements {
 
         System.out.println("Sum of all numbers is : " + sum);
         System.out.println("Product of all numbers is : " + product);
-
     }
 }
