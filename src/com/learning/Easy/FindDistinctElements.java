@@ -15,5 +15,6 @@ public class FindDistinctElements {
                 .toList();
 
         System.out.println("List without duplicates : " + result);
+
     }
 }
