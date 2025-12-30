@@ -35,5 +35,6 @@ public class HighestAverageSalaryDepartment {
                 .orElseThrow();
 
         System.out.println(ans);
+
     }
 }
