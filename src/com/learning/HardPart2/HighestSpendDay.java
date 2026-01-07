@@ -33,6 +33,5 @@ public class HighestSpendDay {
                 .orElseThrow();
 
         System.out.println(ans);
-
     }
 }
