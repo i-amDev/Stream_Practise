@@ -22,6 +22,5 @@ public class HighestPaidByDepartment {
                 .collect(Collectors.groupingBy(Employee::getDepartment, Collectors.maxBy(Comparator.comparing(Employee::getSalary))));
 
         System.out.println(output);
-
     }
 }
