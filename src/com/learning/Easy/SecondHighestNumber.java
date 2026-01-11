@@ -18,6 +18,5 @@ public class SecondHighestNumber {
                 .findFirst();
 
         System.out.println("Second highest number is : " + result.get());
-
     }
 }
