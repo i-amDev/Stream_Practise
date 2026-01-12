@@ -38,5 +38,6 @@ public class EmployeeWith3Departments {
                 .toList();
 
         System.out.println(ans);
+
     }
 }
