@@ -27,6 +27,5 @@ public class SlidingWindowAverage {
                 .toList();
 
         System.out.println(average);
-
     }
 }
