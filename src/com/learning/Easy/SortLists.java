@@ -22,6 +22,5 @@ public class SortLists {
 
         System.out.println("Sorted in ascending order : " + ascendingOrder);
         System.out.println("Sorted in descending order : " + descendingOrder);
-
     }
 }
