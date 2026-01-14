@@ -20,6 +20,5 @@ public class FlattenLists {
                 .toList();
 
         System.out.println("Flatten list : " + result);
-
     }
 }
