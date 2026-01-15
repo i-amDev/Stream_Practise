@@ -29,5 +29,6 @@ public class AverageAge {
 
         System.out.println("Average age is : " + result.getAsDouble());
         System.out.println("Average age is : " + average);
+
     }
 }
