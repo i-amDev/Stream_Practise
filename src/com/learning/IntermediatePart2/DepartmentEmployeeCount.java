@@ -52,5 +52,6 @@ public class DepartmentEmployeeCount {
                 .toList();
 
         System.out.println(ans);
+
     }
 }
