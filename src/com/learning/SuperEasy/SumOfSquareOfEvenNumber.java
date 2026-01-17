@@ -31,5 +31,6 @@ public class SumOfSquareOfEvenNumber {
         System.out.println("Sum of square of even numbers is : " + result);
         System.out.println("Sum of square of even numbers is : " + ans);
         System.out.println("Sum of square of even numbers is : " + sum.get());
+
     }
 }
