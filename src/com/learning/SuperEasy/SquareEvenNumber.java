@@ -17,5 +17,6 @@ public class SquareEvenNumber {
                 .collect(Collectors.toList());
 
         System.out.println("Square of even numbers are : " + result);
+
     }
 }
