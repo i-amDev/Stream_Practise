@@ -30,5 +30,6 @@ public class FirstNonRepeatingCharacter {
                 .orElseThrow();
 
         System.out.println(character);
+
     }
 }
