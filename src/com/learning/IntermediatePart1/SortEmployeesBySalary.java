@@ -28,6 +28,5 @@ public class SortEmployeesBySalary {
 
         System.out.println("Employees sorted in ascending according to their salary : " + ascendingOrder);
         System.out.println("Employees sorted in descending according to their salary : " + descendingOrder);
-
     }
 }
