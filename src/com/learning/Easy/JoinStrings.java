@@ -20,5 +20,6 @@ public class JoinStrings {
 
         System.out.println("All strings combined in a single string : " + result);
         System.out.println("All strings combined in a single comma separated string : " + ans);
+
     }
 }
