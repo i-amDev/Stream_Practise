@@ -17,5 +17,6 @@ public class CountOccurrences {
                 .collect(Collectors.groupingBy(Function.identity(), Collectors.counting()));
 
         System.out.println(output);
+
     }
 }
