@@ -14,6 +14,5 @@ public class CheckIfAnyNumberIsDivisibleBy {
                 .anyMatch(num -> num % 3 == 0);
 
         System.out.println("Does any number is divisible by 3 : " + result);
-
     }
 }
