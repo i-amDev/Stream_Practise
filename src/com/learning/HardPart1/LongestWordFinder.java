@@ -25,6 +25,5 @@ public class LongestWordFinder {
                 .orElse("");
 
         System.out.println("Longest word is : " + ans);
-
     }
 }
