@@ -38,6 +38,5 @@ public class Top3FrequentWord {
                 .toList();
 
         System.out.println(ans);
-
     }
 }
