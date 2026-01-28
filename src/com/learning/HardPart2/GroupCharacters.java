@@ -32,6 +32,5 @@ public class GroupCharacters {
                 }));
 
         System.out.println(ans);
-
     }
 }
