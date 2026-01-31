@@ -39,5 +39,6 @@ public class MostCommonFirstLetter {
                 .orElseThrow();
 
         System.out.println(character);
+
     }
 }
