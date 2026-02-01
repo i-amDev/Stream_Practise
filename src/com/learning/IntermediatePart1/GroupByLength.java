@@ -16,5 +16,6 @@ public class GroupByLength {
                 .collect(Collectors.groupingBy(String::length));
 
         System.out.println(output);
+
     }
 }
