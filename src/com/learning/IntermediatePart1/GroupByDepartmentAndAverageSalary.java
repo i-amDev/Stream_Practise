@@ -22,5 +22,6 @@ public class GroupByDepartmentAndAverageSalary {
                 .collect(Collectors.groupingBy(Employee::getDepartment, Collectors.averagingDouble(Employee::getSalary)));
 
         System.out.println(output);
+
     }
 }
