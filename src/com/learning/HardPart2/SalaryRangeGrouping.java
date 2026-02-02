@@ -24,7 +24,6 @@ public class SalaryRangeGrouping {
                 .collect(Collectors.groupingBy(e -> getSalaryRange(e)));
 
         System.out.println(output);
-
     }
 
     private static SalaryRange getSalaryRange(Employee e) {
