@@ -16,6 +16,5 @@ public class FirstNonEmptyString {
                 .findFirst();
 
         System.out.println("First non empty string is : " + result.get());
-
     }
 }
