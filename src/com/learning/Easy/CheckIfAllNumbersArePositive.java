@@ -14,5 +14,6 @@ public class CheckIfAllNumbersArePositive {
                 .allMatch(num -> num > 0);
 
         System.out.println("Does it contain all positive numbers : " + result);
+
     }
 }
