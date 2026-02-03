@@ -38,5 +38,6 @@ public class MostFrequentCharacter {
                 .map(Map.Entry::getKey);
 
         System.out.println(character);
+
     }
 }
