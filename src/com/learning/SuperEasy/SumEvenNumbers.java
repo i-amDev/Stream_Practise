@@ -15,6 +15,5 @@ public class SumEvenNumbers {
                 .reduce(0, (a, b) -> a + b);
 
         System.out.println("Sum of even numbers is : " + result);
-
     }
 }
