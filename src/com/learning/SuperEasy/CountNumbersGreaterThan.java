@@ -15,5 +15,6 @@ public class CountNumbersGreaterThan {
                 .count(); // Terminal Operation
 
         System.out.println("Count of numbers greater than 50 is : " + result);
+
     }
 }
