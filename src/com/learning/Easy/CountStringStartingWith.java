@@ -21,5 +21,6 @@ public class CountStringStartingWith {
 
         System.out.println("No of fruits starting with A is : " + result);
         System.out.println("Those fruit(s) are : " + ans);
+
     }
 }
